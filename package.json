@@ -1,0 +1,19 @@
+{
+  "name": "claytn-scope",
+  "version": "1.0.0",
+  "description": "blockchain explorer sample",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@project:ella-front-dev/claytn-scope.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.0.11"
+  }
+}
